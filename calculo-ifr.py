@@ -1,3 +1,4 @@
+# RECOMENDAÇÃO DE AMBIENTE PARA EXECUÇÃO: JUPYTER NOTEBOOK
 # Importação das bibliotecas utilizadas
 import pandas as pd
 import matplotlib.pyplot as plt
